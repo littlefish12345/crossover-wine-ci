@@ -100,7 +100,7 @@ jobs:
             --with-gnutls \
             --without-gssapi \
             --without-gstreamer \
-            --with-inotify \
+            --without-inotify \
             --without-krb5 \
             --with-mingw \
             --without-netapi \
